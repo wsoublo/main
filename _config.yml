@@ -1,8 +1,13 @@
 title: Will's Portfolio
 logo: /main/Black Modern Personal LinkedIn Banner (8).png
-description: Showcasing my projects
+description: >
 
-<a href="https://linkedin.com/in/wsoublo">View My LinkedIN Profile</a>
+First Description
+<br><br>
+Second Description
+<br><br>
+<a href="https://www.linkedin.com/in/wsoublo/">View My LinkedIn Profile</a>
+
 show_downloads: true
 google_analytics: G-6WWPV1GVXN
 theme: jekyll-theme-minimal
